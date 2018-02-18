@@ -4,7 +4,8 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//Test
+		Window myWindow = new Window(400, 500);
+		myWindow.setVisible(true);
 	}
 
 }
